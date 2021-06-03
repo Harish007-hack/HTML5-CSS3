@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+}
+.main{
+    background-color: aqua;
+        text-align:center
+        
+}
+.author{
+    padding-top: 20px;
+   border-top: 1px solid grey;
+
+}
+
+.img-c {
+    margin-left: 30%;;
+
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.main {
+    margin-left: auto;
+    margin-right: auto;
+}
+.author img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    float: left;
+}
+.author-text{
+    float: left;
+    padding-top: 41px;
+    padding-left: 10px;
+
+        
+}
+.date{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+   
