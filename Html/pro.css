@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+ 
+ .clearfix:after{
+  content: "";
+  display: table;
+  clear: both;
+} 
+  
+}
+body {
+  font-family: araial;
+  font-size: 18px;
+  text-align:justify;
+}
+h1{
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+.yo{
+  margin-bottom: 15px;
+}
+.main{
+  width: 990px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+.blog{
+  width: 75%;
+  float: left;
+  padding-right: 30px;
+}
+.others{
+  width: 25%;
+  float: left;
+}
+.author{
+  border-top: 1px solid ;
+  padding-top: 20px;
+}

@@ -1,0 +1,64 @@
+html{
+    background-color: rgba(247, 209, 0, 0.96);
+    font-size: 18px;
+    font-family: sans-serif;
+    text-rendering: optimizeLegibility;
+}
+
+h1{
+    text-align: center ;
+    color: maroon;
+    margin: 0 520px;
+    border: 3px dashed rgba(0, 235, 255, 0.89);
+}
+
+
+.Img{
+    float: right;
+    width: 10%;
+    margin-right: 3%;
+    
+}
+
+
+table {
+    border: 2px solid #000;
+    background-color: rgba(76, 229, 70, 0.62);
+    margin-bottom: 10%;
+    margin: 5% 30%;
+    font-size: 120%;
+}
+
+td {
+    border-bottom: 1.5px solid #000;
+    border-left: 2px solid #000;
+    padding-right: 20px;
+}
+
+
+
+th {
+    border-bottom: 1.5px solid #000;
+    border-left: 2px solid #000;
+    
+}
+
+p{
+    font-size: 25px;
+}
+
+
+.nav{
+    font-size: 25px;
+}
+
+.nav li{
+    padding: 10px;
+}
+
+
+.hello{
+    border-bottom: 2px solid #f02a2a;
+    margin: 10px 100px;
+    
+}

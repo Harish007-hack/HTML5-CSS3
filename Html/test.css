@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+  .clearfix:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+.blog{
+  margin: 20px auto 20px auto;
+  font-size: 10px;
+}
+.main{
+  background-color: red;
+  margin-right: 990px;
+  border-left: 30px;
+  width: 990px;
+  margin-top: 20px;
+  float: left;
+}
+.other{
+  text-align: justify;
+  background-color: green;
+  border-top: 100px;
+  float: left;
+}
+.author{
+  background-color: yellow;
+  padding: 20px;
+  border-top: 2px solid grey;
+  float: left;
+  border-top: 31px;
+}
+.author-img{
+  height: 100px;
+  width: 100px;
+  border-radius: 25px;
+  float: left;
+}
