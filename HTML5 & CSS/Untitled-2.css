@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    font: 10px;
+    
+    color: aqua;
+    
+    padding: 10px;
+    margin: 10%;
+    border: 12px solid #ff0000 
+}
